@@ -1,0 +1,4 @@
+﻿  源.cpp
+D:\编程练习\visual studio\一、1\源.cpp(3,6): warning C4326: “main”的返回类型应为“int”而非“void”
+D:\编程练习\visual studio\一、1\源.cpp(6,6): error C2065: “a”: 未声明的标识符
+D:\编程练习\visual studio\一、1\源.cpp(7,6): error C2065: “b”: 未声明的标识符

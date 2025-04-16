@@ -1,0 +1,6 @@
+﻿  源.cpp
+D:\编程练习\visual studio\三、3、（3）\源.cpp(18,7): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\编程练习\visual studio\三、3、（3）\源.cpp(22,9): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\编程练习\visual studio\三、3、（3）\源.cpp(25,8): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\编程练习\visual studio\三、3、（3）\源.cpp(30,8): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  三、3、（3）.vcxproj -> D:\编程练习\visual studio\实验课\x64\Debug\三、3、（3）.exe

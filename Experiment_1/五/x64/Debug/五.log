@@ -1,0 +1,4 @@
+﻿  源.cpp
+D:\编程练习\visual studio\五\源.cpp(14,11): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\编程练习\visual studio\五\源.cpp(15,9): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  五.vcxproj -> D:\编程练习\visual studio\实验课\x64\Debug\五.exe

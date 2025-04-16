@@ -1,0 +1,5 @@
+﻿  源.cpp
+  源1.cpp
+  正在生成代码...
+源1.obj : error LNK2005: main 已经在 源.obj 中定义
+D:\南大 NCU\编程课\编程练习\visual studio\C实验课3\C实验3\x64\Debug\项目样板.exe : fatal error LNK1169: 找到一个或多个多重定义的符号

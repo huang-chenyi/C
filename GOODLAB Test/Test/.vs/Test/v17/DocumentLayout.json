@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u5357\u5927 NCU\\\u8BFE\u7A0B\u76F8\u5173\\\u7F16\u7A0B\u8BFE\\\u7F16\u7A0B\u7EC3\u4E60\\visual studio\\GOODLAB Test\\Test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{24E9B6E5-C7EB-49D4-B0D7-48AA64B7896D}|..\\Project2\\Project2.vcxproj|D:\\\u5357\u5927 NCU\\\u8BFE\u7A0B\u76F8\u5173\\\u7F16\u7A0B\u8BFE\\\u7F16\u7A0B\u7EC3\u4E60\\visual studio\\GOODLAB Test\\Project2\\\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EC320C1-A674-440D-B07F-908A12B5846C}|Test.vcxproj|D:\\\u5357\u5927 NCU\\\u8BFE\u7A0B\u76F8\u5173\\\u7F16\u7A0B\u8BFE\\\u7F16\u7A0B\u7EC3\u4E60\\visual studio\\GOODLAB Test\\Test\\\u6E901.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6EC320C1-A674-440D-B07F-908A12B5846C}|Test.vcxproj|solutionrelative:\u6E901.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u6E90.cpp",
+              "DocumentMoniker": "D:\\\u5357\u5927 NCU\\\u8BFE\u7A0B\u76F8\u5173\\\u7F16\u7A0B\u8BFE\\\u7F16\u7A0B\u7EC3\u4E60\\visual studio\\GOODLAB Test\\Project2\\\u6E90.cpp",
+              "RelativeDocumentMoniker": "..\\Project2\\\u6E90.cpp",
+              "ToolTip": "D:\\\u5357\u5927 NCU\\\u8BFE\u7A0B\u76F8\u5173\\\u7F16\u7A0B\u8BFE\\\u7F16\u7A0B\u7EC3\u4E60\\visual studio\\GOODLAB Test\\Project2\\\u6E90.cpp",
+              "RelativeToolTip": "..\\Project2\\\u6E90.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-09T07:43:09.962Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "\u6E901.cpp",
+              "DocumentMoniker": "D:\\\u5357\u5927 NCU\\\u8BFE\u7A0B\u76F8\u5173\\\u7F16\u7A0B\u8BFE\\\u7F16\u7A0B\u7EC3\u4E60\\visual studio\\GOODLAB Test\\Test\\\u6E901.cpp",
+              "RelativeDocumentMoniker": "\u6E901.cpp",
+              "ToolTip": "D:\\\u5357\u5927 NCU\\\u8BFE\u7A0B\u76F8\u5173\\\u7F16\u7A0B\u8BFE\\\u7F16\u7A0B\u7EC3\u4E60\\visual studio\\GOODLAB Test\\Test\\\u6E901.cpp",
+              "RelativeToolTip": "\u6E901.cpp",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-09T07:14:25.179Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
